@@ -2,7 +2,7 @@
 A tool that lets you install Firmwares W and X to your Puffco.
 
 --------
-How to use:
+# How to use:
 
 Before you start, make sure you have node.js installed. Once you have it installed download the tool below and put the exe on your desktop. Go to bluetooth settings on your PC and pair your puffco device.
 Once its paired, open the tool. Make sure the puffco isnt in bluetooth mode, click the button on the back of your puffco to select a profile to make sure the puffco is awake. Next on the tool click "Search For Puffco". If all goes well it will prompt you with a question asking if the device it found is the puffco you're wanting to install the firmware to, if it is click Y. The tool will then put your puffco in DFU mode and will upload the firmware. Once uploaded the tool will finalize the install and boot your puffco, once it boots it will be on the firmware you selected.
