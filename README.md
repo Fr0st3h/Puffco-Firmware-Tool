@@ -14,4 +14,4 @@ if the tool isnt finding the puffco, forget the device in bluetooth settings and
 You can also disable your phone bluetooth and try with that off.
 
 # Screenshot
-https://i.imgur.com/MOsW1wU.png
+![alt text](https://i.imgur.com/MOsW1wU.png)
