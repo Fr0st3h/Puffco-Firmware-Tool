@@ -1,0 +1,1 @@
+nuitka --onefile --mingw64 --include-package-data=bleak --include-package-data=bleak-winrt --include-data-dir=resources/resources=resources --windows-icon-from-ico=resources/icon.ico firmwareToolUI.py
