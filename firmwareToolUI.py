@@ -32,7 +32,7 @@ class FirmwareToolUI:
         self.mainMenu = self.root.create_new_widget_set(8,8)
         self.root.set_refresh_timeout(0.5)
         
-        self.root.set_title("Puffco Firmware Tool - Created By Fr0st3h#9889 - v1.2")
+        self.root.set_title("Puffco Firmware Tool - Created By Fr0st3h#9889 - v1.3")
         
         title = self.mainMenu.add_block_label(self.getTitle(), 0, 0, 2, 8, center=True)
         title.set_color(colors.RED_ON_BLACK)
