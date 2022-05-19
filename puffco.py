@@ -121,7 +121,7 @@ class PuffcoDevice:
                 except Exception as e:
                     addToConsole(self.console, f"Error: {e}")
                     return False
-                await asyncio.sleep(0.001)
+                await asyncio.sleep(0.03)
         return True
     
     async def exitDFU(self):
